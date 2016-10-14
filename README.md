@@ -24,3 +24,5 @@ We expect you to be vocal about issues you are running into. Log the issues you 
 Reach out to meghraj.suthar@.com, alok.trivedi@qriyo.com if you have any further technical queries.
 
 All the very best and good luck.
+
+
