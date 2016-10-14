@@ -1,0 +1,2 @@
+# qriyo-task
+Movies plotting
