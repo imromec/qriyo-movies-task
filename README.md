@@ -1,4 +1,4 @@
-Build an interface to search and browse through the attached movie database. https://gist.github.com/3022b00aead25810b794#file-use_the_force-json
+Build an interface to search and browse through the attached movie database. https://gist.github.com/imromec/18af7146b3a61a4537be#file-use_the_force-json
 
 Use MySQL as the backend database and PHP as the scripting language. If you wish to use a different technology stack, you are welcome, but discuss with your proctor/evaluator before starting.
 
