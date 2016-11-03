@@ -21,7 +21,7 @@ A small writeup about how the provided data was translated to the final schema.
 Codebase (comprising all files required to run the site on an apache or similar server)
 We expect you to be vocal about issues you are running into. Log the issues you have on your fork's issue queue.
 
-Reach out to meghraj.suthar@.com, alok.trivedi@qriyo.com if you have any further technical queries.
+Reach out to meghraj.suthar@.com, hr@qriyo.com if you have any further technical queries.
 
 All the very best and good luck.
 
