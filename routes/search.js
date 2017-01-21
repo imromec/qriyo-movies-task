@@ -25,7 +25,9 @@ router.route('/')
       console.log(err);
     }
     else {
-      res.json(mov);
+      res.json({
+        data:mov
+      });
     }
   });
 });
