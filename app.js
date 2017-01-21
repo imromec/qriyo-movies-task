@@ -12,8 +12,8 @@ mongoose.Promise = global.Promise;
 
 var app = express();
 
-var url = 'mongodb://localhost:27017/Intern';
-mongoose.connect(url);
+var url = require('./config/dbconfig');
+mongoose.connect(url.url);
 var db = mongoose.connection;
 db.on('error',console.error.bind('Connection to server not established'));
 db.once('open',function(){
