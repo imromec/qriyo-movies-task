@@ -19,7 +19,7 @@ router.route('/')
   });
 })
 .post(function(req,res,next){
-  Movie.find(req.body,function(err,mov){
+  Movie.find({$text:{$search:req.body.key}},function(err,mov){
     if(err)
     {
       console.log(err);
